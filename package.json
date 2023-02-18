@@ -1,0 +1,23 @@
+{
+  "name": "react-component-custom",
+  "version": "1.0.0",
+  "description": "make a react custom component",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yanniro2/react-component.git"
+  },
+  "keywords": [
+    "React",
+    "Components"
+  ],
+  "author": "Niroyan Kugaruban",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yanniro2/react-component/issues"
+  },
+  "homepage": "https://github.com/yanniro2/react-component#readme"
+}

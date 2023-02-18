@@ -5,7 +5,7 @@ This is to used to create a button to cmponent run
 
 # Installation 
 
-`npm i reactComponent -- save`
+`npm i react-component-custom -- save`
 
 
 ```
